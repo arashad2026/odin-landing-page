@@ -1,0 +1,40 @@
+* {
+    outline: 1px solid black;
+    margin: 0;
+    padding: 0;
+    font-family: Roboto, serif;
+}
+
+/* NAV BAR */
+
+.nav-bar {
+    background-color: #1F2937;
+}
+
+.nav-container {
+    width: 80vw;
+    padding: 16px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.nav-container p {
+    font-weight: bold;
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 16px;
+}
+
+li a {
+    color: #F9FAF8;
+    text-decoration: none;
+}
+
+/* HEADER */
+
