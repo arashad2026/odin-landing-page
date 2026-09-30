@@ -13,7 +13,7 @@
 
 .nav-container {
     color: #F9FAF8;
-    width: 80vw;
+    width: 65vw;
     padding: 16px;
     display: flex;
     justify-content: space-between;
@@ -44,7 +44,7 @@ li a {
 
 .section-1-subcontainer {
     color: #F9FAF8;
-    width: 80vw;
+    width: 65vw;
     margin: 0 auto;
     padding: 100px 0;
     display: flex;
@@ -52,6 +52,7 @@ li a {
 }
 
 .section-1-text {
+    width: 600px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -90,7 +91,7 @@ li a {
 /* SECTION 2 */
 .section-2 {
     text-align: center;
-    width: 80vw;
+    width: 65vw;
     margin: 0 auto;
 }
 
